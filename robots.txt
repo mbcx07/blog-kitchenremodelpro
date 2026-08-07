@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kitchenremodelpro.com/blog-kitchenremodelpro/sitemap.xml
